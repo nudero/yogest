@@ -1,6 +1,0 @@
-app.version=1.0
-app.id=com.sn.gameadmin.IOSLauncher
-app.mainclass=com.sn.gameadmin.IOSLauncher
-app.executable=IOSLauncher
-app.build=1
-app.name=game-admin
